@@ -14,8 +14,11 @@ body {
   background-color: hsl(217, 19%, 21%);
   width: 18rem;
   height: 10rem;
+  justify-content: center;
   border-radius: 10px;
   margin-top: 15rem;
+  margin-left: 30%;
+  margin-bottom: 30%;
   box-shadow: 0px 0px 10px 10px;
 }
 
@@ -34,4 +37,20 @@ body {
   margin-right: 19px;
   font-size: 18px;
   text-align: center;
+}
+.circle {
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  border-radius: 50%;
+  width: 10%;
+  height: 15%;
+  margin-left: 45%;
+  margin-top: 12%;
+}
+h6 {
+  color: white;
+  margin-top: 18%;
+  font-size: 15px;
+  margin-left: 1%;
 }
