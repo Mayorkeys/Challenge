@@ -48,9 +48,19 @@ body {
   margin-left: 45%;
   margin-top: 12%;
 }
-h6 {
-  color: white;
-  margin-top: 18%;
+.icon {
+  color: black;
+  margin-left: 47.5%;
+  margin-bottom: 60%;
+  margin-right: 30%;
+  margin-top: -7%;
   font-size: 15px;
-  margin-left: 1%;
+}
+.icon2 {
+  color: aliceblue;
+  margin-left: 47.5%;
+  margin-bottom: 60%;
+  margin-right: 30%;
+  margin-top: 10%;
+  font-size: 15px;
 }
