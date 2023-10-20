@@ -36,7 +36,7 @@ body {
   text-align: center;
 }
 .circle {
-  background-color: green;
+  background-color: hsl(140, 71%, 57%);
   display: flex;
   justify-content: center;
   border-radius: 50%;
