@@ -5,34 +5,31 @@
   max-width: 1440px;
 }
 body {
+  background-color: hsl(217, 19%, 15%);
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: hsl(217, 19%, 15%);
 }
 .box {
   background-color: hsl(217, 19%, 21%);
   width: 18rem;
   height: 10rem;
   justify-content: center;
-  border-radius: 10px;
+  border-radius: 8px;
   margin-top: 15rem;
-  margin-left: 30%;
   margin-bottom: 30%;
-  box-shadow: 0px 0px 10px 10px;
+  box-shadow: 0px 0px 5px 5px;
 }
-
 .heading {
   color: rgb(50, 200, 50);
-  font-size: 8px;
+  font-size: 10px;
   font-family: monospace;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 .content {
   color: gray;
-  padding-top: 20px 20px;
-  margin-top: 5px;
+  margin-top: 12px;
   margin-left: 20px;
   margin-right: 19px;
   font-size: 18px;
@@ -46,21 +43,16 @@ body {
   width: 10%;
   height: 15%;
   margin-left: 45%;
+  margin-top: 13%;
+}
+.fa-calendar-days {
   margin-top: 12%;
 }
-.icon {
-  color: black;
-  margin-left: 47.5%;
-  margin-bottom: 60%;
-  margin-right: 30%;
-  margin-top: -7%;
-  font-size: 15px;
-}
 .icon2 {
-  color: aliceblue;
-  margin-left: 47.5%;
-  margin-bottom: 60%;
-  margin-right: 30%;
-  margin-top: 10%;
-  font-size: 15px;
+  color: white;
+  opacity: 0.2;
+  margin-left: 45%;
+  font-size: 1.5rem;
+  height: 10%;
+  margin-top: -3.3rem;
 }
